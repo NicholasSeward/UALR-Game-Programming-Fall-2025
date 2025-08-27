@@ -1,0 +1,39 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Compiled static libraries
+*.a
+*.lib
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.out
+*.exe
+
+# Debug files
+*.dSYM/
+*.ipch/
+*.pdb
+
+# Build directories
+build/
+bin/
+lib/
+
+# IDE/project files
+.vscode/
+.idea/
+*.user
+*.suo
+*.sln
+*.vcxproj*
+hello
